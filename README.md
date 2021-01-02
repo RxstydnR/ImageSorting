@@ -8,12 +8,15 @@ In this notebook, the image sorting process is introduced.
 
 `Image Sorting Steps`
 
+<p><img src="results/method.png" width=50%></p>
+
+<!--
 1. Make generative model learn how to generate input data $\mathbf{I}$.
 2. Inputs all images to the encoder and gets latent variables outputs $\mathbf{z}$.
 3. Make image-variables Dictinary $\mathbf{D_{img-z}}$.
 4. Decide one reference image and calculate the distance.
 5. Images are sorted by the distance.
-
+-->
 
 
 ## Data
