@@ -57,6 +57,8 @@ As a example, AE compresss the land scape images and gets latent space info. The
 
 ### Trained model
 
+> Download here → [Google drive](https://drive.google.com/drive/folders/1UfoBX3tSB4cj-wKIHmn-9kX7QVHI5M2g?usp=sharing)
+
 - `ae_encoder_mse.h5`: the encoder of trained AE model with **MSE** loss.
 
 
