@@ -30,9 +30,19 @@ Dataset: [European Cities 1M dataset](http://image.ntua.gr/iva/datasets/ec1m/ind
 
 ## Results Example
 
+### 128 dim → 2 dim
+
 As a example, AE compresss the land scape images and gets latent space info. The info is so high dimentional that Umap is applied to get informative and low dimentional infos. Left image shows the two dimentional latent space info. Based on it, images are sorted. Right image is showing the image-sorting result.
 
 <p align="center"><img src="results/image-sort.jpeg" width=40%><img src="results/m_result.jpeg" width=60%></p>
+
+
+
+### 128 dim → 1 dim
+
+<p align="center"><img src="results/spca_plot.png" width=40%>  <img src="results/spca_image.png" width=55%></p>
+
+**Sounds good 👍**
 
 
 
